@@ -109,3 +109,13 @@ After applying the Terraform configuration, log in to your Spotify account and v
 ## Conclusion
 
 By following these steps, you can automate the creation and management of multiple Spotify playlists using Terraform. This approach not only saves time but also ensures consistency across your playlists. Customize the playlists and tracks as per your preference to suit different occasions.
+
+##Screenshots
+
+![image](https://github.com/user-attachments/assets/8fab1ea0-923c-4598-8804-28648b67f83a)
+
+
+![image](https://github.com/user-attachments/assets/c5a9c83e-400d-421e-b876-abe5ac96a171)
+
+![image](https://github.com/user-attachments/assets/e647fc41-6838-4ace-8ed7-4742b75ca087)
+
